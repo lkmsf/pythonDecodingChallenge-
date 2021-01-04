@@ -1,0 +1,1 @@
+Can't tell too much here because it isn't encrypted but make sure the ascii values of each character in that string add up to 18786. I'll send more info in my next message - it's a shift cipher by the sum of the ascii value digits of the first character in that string.  

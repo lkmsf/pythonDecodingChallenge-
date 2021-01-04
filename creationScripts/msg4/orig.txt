@@ -1,0 +1,9 @@
+so it turns out that password wasn't actually a password but instead the key to a vigenere cipher (use char's offset from ASCII "a"). We intercepted an email message from them that has the actual password. we think the "password" you recovered will decrypt the message below. once you've got it, go ahead and run our program "admin", it'll connect to the company's mainframe and put the password in. our program will do the rest. once you're in, you'll understand why we had to keep you in the dark.
+
+
+hey!!
+
+how have you been? hope the vacation went well! btw, we updated our security over the last few weeks. i think it's overkill but apparently, there's been some "suspicious activity". anyways, they updated the admin password. it's "@38lx^2c$5ta". maybe you can convince them to chill on the security measures.
+
+Best,
+redacted
