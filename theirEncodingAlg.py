@@ -1,8 +1,10 @@
 #using instead of random library so it's deterministic cross platform/python version
 from numpy import random 
 
+fileName = "file.txt" 
+
 def main():
-    with open("startHere.txt") as f: 
+    with open(fileName) as f: 
         origText = f.read() 
     
     encodedText = "" 
@@ -33,7 +35,7 @@ def main():
             encodedText += word[charMap[i]] 
         encodedText += " "
     
-    with open("startHere.txt", "w") as f: 
+    with open(fileName, "w") as f: 
         f.write(encodedText)
         
 

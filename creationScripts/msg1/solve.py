@@ -1,7 +1,7 @@
 from numpy import random #using instead of random library so it's deterministic cross platform/ pyhton version
 
 def main():
-    with open("../../startHere.txt") as f: 
+    with open("../../msg1.txt") as f: 
         origText = f.read() 
     
     unencodedText = "" 
