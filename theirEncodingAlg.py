@@ -1,4 +1,5 @@
-import random 
+#using instead of random library so it's deterministic cross platform/python version
+from numpy import random 
 
 def main():
     with open("startHere.txt") as f: 
@@ -20,7 +21,7 @@ def main():
         charMap[len(word) - 1] = len(word) - 1
 
         #shuffle the inner word
-        random.seed(word[0] + word[-1])                #first and last letters don't change 
+        random.seed(ord(word[0]) + ord(word[-1]))                #first and last letters don't change 
         randomIndecies = list(range(1, len(word) - 1)) #randomize middle indecies 
         random.shuffle(randomIndecies)
 
