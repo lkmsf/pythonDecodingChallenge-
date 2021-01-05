@@ -8,13 +8,14 @@ def main():
         result += chr(ord(i) + 3) 
     
     final, email = result.split("\n\n\n")
+    print(email)
 
     result = "" 
     key = "oteliforbtatadmtcetebtmynswtifephroelotnronseoebuymlducngmednpgiarseopetsblgngmdrpiwrhdkoeseorvteftgoretorseopretnysayndicateftgonmoswsecadiduhtdetlthsysretnysidaltlmcretnys"
     for i, e in enumerate(email): 
         result += chr(ord(e) + (ord("a") - ord(key[i % len(key)]))) 
 
-    final+= result 
+    final += "\n\n" + result 
     
     print(final)
 
