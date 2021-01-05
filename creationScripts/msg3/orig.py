@@ -1,5 +1,5 @@
 
-book = "books/hp.txt" 
+book = "../../books/hp.txt" 
 
 def main():
     pswd = foo() 

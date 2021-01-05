@@ -56,7 +56,8 @@ def bar(lines, words):
                     y += h[l].split()[j][-1  #get last word
     return y
 
-# ",apple. jaksdf" -> "applejaksdf"
+# ex. ",apple. jaksdf" -> "applejaksdf" 
+# only keep actual letters
 def removeNonLtrs(s): 
     r = "" 
     for c in s: 
