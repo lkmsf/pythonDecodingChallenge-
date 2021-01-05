@@ -1,4 +1,5 @@
-from numpy import random #using instead of random library so it's deterministic cross platform/ pyhton version
+#using np.random instead of random library so it's deterministic cross platform/ python version
+from numpy import random 
 
 def main():
     with open("../../msg1.txt") as f: 
