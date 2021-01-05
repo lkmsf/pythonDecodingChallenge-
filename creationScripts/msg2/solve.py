@@ -8,6 +8,7 @@ def main():
     for line in key: 
         k, v = line.split(" -> ")
         d[k] = v
+        d[k.upper()] = v.upper()
 
     for key, val in zip("abectik", "cebikta"): 
         d[key] = val 

@@ -8,8 +8,9 @@ def main():
     aCopy = [x for x in ALPH if x not in "abectik"]
     orig = aCopy.copy() 
     random.shuffle(aCopy)
-
-    eD = {key: value for key, value in zip(orig, aCopy)}
+    
+    #line below would be better as a for loop but I wanted practice with more complex list comprehensions 
+    eD = {key: value for k, v in zip(orig, aCopy) for key, value in zip([k, k.upper()], [v, v.upper()])}
     for val, key in zip("abectik", "cebikta"): 
         eD[key] = val 
         eD[key.upper()] = val.upper()
