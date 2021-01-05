@@ -11,6 +11,7 @@ def main():
 
     for key, val in zip("abectik", "cebikta"): 
         d[key] = val 
+        d[key.upper()] = val.upper()
 
     nMsg = ""
     for c in msg: 

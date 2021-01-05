@@ -1,23 +1,23 @@
 Key: 
-y -> d
-u -> f
-v -> g
-o -> h
-l -> j
-g -> l
-x -> m
-q -> n
-j -> o
-m -> p
-f -> q
-z -> r
-w -> s
-s -> u
-r -> v
-n -> w
-h -> x
-d -> y
-p -> z
+v -> d
+j -> f
+d -> g
+u -> h
+n -> j
+q -> l
+z -> m
+h -> n
+r -> o
+f -> p
+m -> q
+x -> r
+o -> s
+g -> u
+s -> v
+l -> w
+w -> x
+p -> y
+y -> z
 
  Message: 
-Hc kvkcq! Iu djs'zb zbkycqv iocw, qcab lje zbrbzwb bqvcqbbzcqv iobcz bqajycqv mzjvzkx kqy ybazdmicqv xd xbwwkvb - nb mcatby iob zcvoi mbzwjq ujz iob lje! Wb jqgd okrb jqb aokqab ij vbi iocw zcvoi. Wb iocqt iobd'zb cqibzabmicqv jsz xbwwkvbw wj I akq jqgd wbqy wj xsao cquj ki k icxb, kqy ci okw ij eb bqazdmiby. I akq ibgg djs ioki nb qbby iobcz kyxcq mkwwnjzy ij zbrbzwb iob ykxkvb. Lsatcgd bxmgjdbb #5890 okw k okzy icxb zbxbxebzcqv iobcz mkwwnjzy kqy wikziby ij azbkib k mdiojq mzjvzkx ioki kgwj vbqbzkiby iobcz mkwwnjzy. Uqujzisqkibgd, ci'w qji ucqcwoby, iobd yjq'i wbbx kgg ioki vzbki ki ybesvvcqv jz yjasxbqikicjq jz swcqv ybwazcmicrb qkxbw ujz rkzckegbw kqy usqaicjqw. Wb zbkggd akq'i xktb obkyw jz ikcgw ju ci esi nb iocqt djs okrb k woji ki ci. I obkz iobd gctb okzzd mjiibz - xkdeb ci'gg eb obgmusg?
+Hc kdkch! Cj prg'xb xbkvchd iuco, hcab nre xbsbxob bhdchbbxchd iubcx bharvchd fxrdxkz khv vbaxpfichd zp zbookdb - lb fcatbv iub xcdui fbxorh jrx iub nre! Wb rhqp uksb rhb aukhab ir dbi iuco xcdui. Wb iucht iubp'xb chibxabfichd rgx zbookdbo or C akh rhqp obhv or zgau chjr ki k iczb, khv ci uko ir eb bhaxpfibv. C akh ibqq prg iuki lb hbbv iubcx kvzch fkoolrxv ir xbsbxob iub vkzkdb. Lgatcqp bzfqrpbb #5890 uko k ukxv iczb xbzbzebxchd iubcx fkoolrxv khv oikxibv ir axbkib k fpiurh fxrdxkz iuki kqor dbhbxkibv iubcx fkoolrxv. Uhjrxighkibqp, ci'o hri jchcoubv, iubp vrh'i obbz kqq iuki dxbki ki vbegddchd rx vragzbhikicrh rx gochd vboaxcficsb hkzbo jrx skxckeqbo khv jghaicrho. Wb xbkqqp akh'i zktb ubkvo rx ikcqo rj ci egi lb iucht prg uksb k ouri ki ci. C ubkx iubp qctb ukxxp friibx - zkpeb ci'qq eb ubqfjgq?

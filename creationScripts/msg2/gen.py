@@ -12,6 +12,7 @@ def main():
     eD = {key: value for key, value in zip(orig, aCopy)}
     for val, key in zip("abectik", "cebikta"): 
         eD[key] = val 
+        eD[key.upper()] = val.upper()
 
     #encode message 
     encodedMsg = ""
